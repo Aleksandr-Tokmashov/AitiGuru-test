@@ -1,5 +1,5 @@
-# Тестовое задание AitiGuru.test
-## Установка и запуск
+# Тестовое задание AitiGuru
+## Инструкция по установке
 - Клонируйте репозиторий: \
 `git clone git@github.com:Aleksandr-Tokmashov/AitiGuru-test.git && cd AitiGuru-test`
 `cd AitiGuru-test`

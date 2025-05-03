@@ -1,7 +1,7 @@
 # Тестовое задание AitiGuru
 ## Инструкция по установке
 - Клонируйте репозиторий: \
-`git clone git@github.com:Aleksandr-Tokmashov/AitiGuru-test.git && cd AitiGuru-test`
+`git clone git@github.com:Aleksandr-Tokmashov/AitiGuru-test.git` \
 `cd AitiGuru-test`
 - Запустите приложение: \
 `sencha app watch`
